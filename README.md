@@ -1,2 +1,3 @@
 # github-demo
-hi, this is my second github repo.
+Hi, This is my second github repo. <br>
+Author name - Yash Raj Rastogi.
